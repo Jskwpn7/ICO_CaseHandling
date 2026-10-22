@@ -1,0 +1,28 @@
+# ── Data files (local only) ───────────────────────────────────────────────────
+Data/
+ico_dp_complaints_combined.csv
+ico_dp_complaints_dashboard.html
+
+# ── Build/analysis scripts ────────────────────────────────────────────────────
+*.py
+
+# ── Archive folder ────────────────────────────────────────────────────────────
+Archive/
+
+# ── OS files ──────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Editor directories ────────────────────────────────────────────────────────
+.vscode/
+.idea/
+
+# ── Accidental duplicates ─────────────────────────────────────────────────────
+**(1).*
+* (1).*
+
+# ── Temporary files ───────────────────────────────────────────────────────────
+*.tmp
+*.bak
+~$*
